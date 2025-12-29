@@ -1,6 +1,6 @@
 Hi 👋, I'm Do Van Tuan
 
-Embedded System Engineer | Real-time Communication & Media Streaming Specialist
+Embedded Systems Engineer | Real-time Communication & Media Streaming Specialist
 
 <p align="left">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" />
@@ -8,45 +8,56 @@ Embedded System Engineer | Real-time Communication & Media Streaming Specialist
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/WebRTC-333333%3Fstyle%3Dfor-the-badge%26logo%3Dwebrtc%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GStreamer-64AF2C%3Fstyle%3Dfor-the-badge%26logo%3Dgstreamer%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Qt-41CD52%3Fstyle%3Dfor-the-badge%26logo%3Dqt%26logoColor%3Dwhite" />
 </p>
 
-👨‍💻 Professional Background
+👨‍💻 About Me
 
-Tôi là một kỹ sư hệ thống nhúng đang làm việc tại FPT Telecom, tập trung vào việc xây dựng các giải pháp truyền tải video và giao tiếp thời gian thực hiệu năng cao. Tôi đam mê việc tối ưu hóa phần cứng và kiến trúc phần mềm hướng sự kiện.
+I am an Embedded Software Engineer currently working at FPT Telecom. My core focus lies in developing high-performance, low-latency communication systems and optimizing video delivery for IoT ecosystems. I have a strong interest in event-driven architectures and Linux system programming.
 
-🔭 Hiện tại: Phát triển các giải pháp tại FPT Telecom (IoT Gateway, Camera Cloud).
+🔭 Currently at: FPT Telecom (Developing IoT Gateways & Cloud Camera Solutions).
 
-👯 Cộng tác: Thành viên đóng góp tích cực cho hệ sinh thái Ak-Embedded-Software, chuyên về các hệ thống Linux hướng sự kiện và RTOS.
+👯 Collaborating on: Ak-Embedded-Software - A robust ecosystem for event-driven embedded systems.
 
-⚡ Sở trường: Low-level programming, tối ưu hóa bộ nhớ và giao thức mạng.
+💬 Ask me about: C/C++, Linux Kernel, WebRTC, Media Streaming protocols.
 
-🛠 Technical Deep Dive
+⚡ Fun fact: I enjoy deep-diving into memory management and optimizing code down to the bit level.
 
-🟦 C/C++ & Embedded Systems
+🛠 Technical Expertise
 
-Modern C++ (11/14/17): Ứng dụng Smart Pointers, RAII và Template Metaprogramming để xây dựng các ứng dụng Linux Embedded an toàn và hiệu quả.
+🟦 Advanced C/C++ Development
 
-Embedded C: Phát triển HAL/Drivers (I2C, SPI, UART, CAN) tuân thủ tiêu chuẩn MISRA C cho các dòng vi điều khiển ARM Cortex-M.
+Modern C++ (11/14/17): Proficient in utilizing Smart Pointers, RAII, and Template Metaprogramming to build safe, scalable Linux-based applications.
 
-Event-driven Architecture: Thiết kế hệ thống dựa trên State Machine và cơ chế Signal-Timer-Task (đặc biệt là trong framework AK).
+Embedded C: Extensive experience in HAL/Driver development (I2C, SPI, UART, CAN) for ARM Cortex-M and MIPS architectures.
+
+Software Architecture: Skilled in Event-driven architecture, State Machines, and Multi-threading synchronization.
 
 🌐 WebRTC & Real-time Communication
 
-P2P Streaming: Xây dựng luồng giao tiếp trực tiếp độ trễ cực thấp (< 200ms) xuyên qua các lớp NAT phức tạp bằng STUN/TURN.
+P2P Networking: Implementing ultra-low latency (< 200ms) video/audio streaming solutions.
 
-Protocol Stack: Làm chủ các lớp bảo mật DTLS/SRTP và kênh dữ liệu SCTP để điều khiển thiết bị từ xa (PTZ, Sensor Data).
+Connectivity: Expertise in NAT Traversal using STUN/TURN/ICE and managing signaling flows.
 
-Embedded WebRTC: Tích hợp các thư viện lightweight như libdatachannel lên các thiết bị tài nguyên hạn chế.
+Protocol Stack: Deep understanding of DTLS/SRTP for secure transmission and SCTP for reliable DataChannels.
 
 🎥 Media Streaming & Processing
 
-GStreamer Pipelines: Thiết kế các pipeline xử lý video sử dụng phần cứng tăng tốc (Hardware Acceleration) như OpenMAX, VA-API.
+GStreamer: Designing complex multimedia pipelines with hardware acceleration (OpenMAX, VA-API, RKMPP).
 
-Encoding/Decoding: Thành thạo H.264/H.265, tối ưu hóa Bitrate (VBR/CBR) để đảm bảo chất lượng hình ảnh trên các đường truyền mạng không ổn định.
+Video Compression: In-depth knowledge of H.264/H.265 (HEVC) encoding, bitrate control (CBR/VBR), and frame-type optimization.
 
-FFmpeg Integration: Xử lý ghi hình (Recording) và chuyển mã (Transcoding) ở mức library (libavcodec).
+FFmpeg Integration: Leveraging libav libraries for custom transcoding and edge-device recording solutions.
 
-📊 GitHub Stats & Contributions
+🧰 Tools & Technologies
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,linux,qt,git,arduino,cmake,docker,visualstudio,vscode" />
+</a>
+</p>
+
+📊 GitHub Activity
 
 <p align="center">
 <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddovantuan02%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue" />
@@ -55,12 +66,12 @@ FFmpeg Integration: Xử lý ghi hình (Recording) và chuyển mã (Transcoding
 
 📫 Connect with me:
 
-Email: dovantuan285@gmail.com
-
-LinkedIn: Do Van Tuan
-
-GitHub: dovantuan02
+<p align="left">
+<a href="mailto:dovantuan285@gmail.com"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/dovantuan2002/" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<a href="https://github.com/dovantuan02" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" /></a>
+</p>
 
 <p align="center">
-<i>"Writing code that touches the hardware is like conducting an orchestra where every bit matters."</i>
+<i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
 </p>
