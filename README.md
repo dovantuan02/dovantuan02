@@ -3,12 +3,7 @@ Hi 👋, I'm Do Van Tuan
 Embedded Systems Engineer | Real-time Communication & Media Streaming Specialist
 
 <p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/WebRTC-333333%3Fstyle%3Dfor-the-badge%26logo%3Dwebrtc%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GStreamer-64AF2C%3Fstyle%3Dfor-the-badge%26logo%3Dgstreamer%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Qt-41CD52%3Fstyle%3Dfor-the-badge%26logo%3Dqt%26logoColor%3Dwhite" />
 </p>
 
 👨‍💻 About Me
