@@ -19,9 +19,9 @@ My core focus is on developing **high-performance, low-latency communication sys
 
 I am passionate about **event-driven architectures**, **Linux system programming**, and building **robust real-time media pipelines**.
 
-- 🔭 **Currently at:** FPT Telecom — Developing IoT Gateways & Cloud Camera Solutions  
+- 🔭 **Work on:** FPT Telecom — Developing Camera Solutions  
 - 👯 **Collaborating on:** *AK Embedded Software Framework*  
-- 💬 **Ask me about:** C/C++, Linux Kernel, WebRTC, Media Streaming  
+- 💬 **Tech:** C/C++, Linux Kernel, WebRTC, Media Streaming  
 - 📫 **Contact:** dovantuan285@gmail.com  
 
 ---
@@ -39,9 +39,7 @@ I am passionate about **event-driven architectures**, **Linux system programming
 - **Security & Transport:** DTLS, SRTP, SCTP DataChannels.
 
 ### 🎥 Media Streaming & Processing
-- **GStreamer:** Hardware-accelerated pipelines (OpenMAX, VA-API).
 - **Video Codecs:** H.264 / H.265 (HEVC), CBR/VBR, GOP optimization.
-- **FFmpeg:** Custom transcoding and edge recording with libav.
 
 ---
 
