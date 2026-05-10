@@ -1,4 +1,4 @@
-**Embedded System Engineer | Camera Systems & Real-time Streaming Specialist**
+**Embedded Engineer | Embedded Linux | Camera Systems & Real-time Streaming Specialist | RTOS | MCU | SoC **
 
 I am an Embedded Programmer with a strong focus on camera systems, real-time streaming, and embedded development. I enjoy working close to the system level to build stable, efficient, and low-latency solutions for video, IoT, and communication platforms.
 
