@@ -1,43 +1,51 @@
-**Embedded Engineer | Embedded Linux | Camera Systems & Real-time Streaming Specialist | RTOS | MCU | SoC **
+# Building Low-Latency Embedded & Real-Time Streaming Systems
 
-I am an Embedded Programmer with a strong focus on camera systems, real-time streaming, and embedded development. I enjoy working close to the system level to build stable, efficient, and low-latency solutions for video, IoT, and communication platforms.
+**Embedded Engineer | Embedded Linux | RTOS | WebRTC | Camera Systems**
 
----
-
-### Professional Focus
-- **Real-time Streaming:** WebRTC, RTSP, and RTMP protocols.
-- **System Bring-up:** Experienced in customizing boot flows and bypassing secure boot mechanisms (CC312) on ARM platforms (Corstone-1000).
-- **Embedded Linux:** Proficient in Buildroot and Yocto Project for root filesystem customization and system optimization.
-- **Firmware Development:** Specialized in event-driven system design and low-level C/C++ programming for constrained environments.
+I am an embedded software engineer focused on low-level systems, camera platforms, and real-time streaming technologies.  
+I enjoy building stable, efficient, and low-latency solutions for video, IoT, and communication systems.
 
 ---
 
-### Technical Skills
+## What I Do
+- Real-time streaming with **WebRTC, RTSP, and RTMP**
+- Embedded Linux customization using **Buildroot** and **Yocto Project**
+- Firmware development with **C/C++** for constrained systems
+- Event-driven architecture and low-level system programming
+- Camera system development and video pipeline optimization
+- ARM platform bring-up and boot flow customization
+
+---
+
+## Tech Stack
 - **Languages:** C, C++
-- **OS & Frameworks:** Embedded Linux, Zephyr RTOS, Yocto Project, Buildroot.
-- **Hardware Platforms:** ARM (Corstone-1000), STM32 (Cortex-M3, STM32N6570-DK).
-- **Protocols & Networking:** WebRTC, RTSP, RTMP, H.264/H.265, ICE, STUN, TURN.
-- **Tools:** Git, Linux Terminal, Debugging tools.
+- **Embedded OS:** Embedded Linux, Zephyr RTOS
+- **Build Systems:** Yocto Project, Buildroot
+- **Platforms:** STM32, ARM Corstone-1000
+- **Streaming & Media:** WebRTC, RTSP, RTMP, H.264/H.265
+- **Networking:** ICE, STUN, TURN
+- **Tools:** Git, Linux, debugging & performance analysis tools
 
 ---
 
-### Key Projects
-#### [WebRTC Server on STM32](https://github.com/dovantuan02)
-Deployed a minimal WebRTC Server on the **STM32N6570-DK** device based on the **Zephyr** platform. It supports streaming video, audio, and data channels.
+## Featured Projects
 
-#### [ARM Corstone-1000 Custom Bootloader](https://github.com/dovantuan02)
-Customized the boot process to bypass the secure boot mechanism (CC312), enabling flexible development and testing workflows. Ported and integrated **Buildroot** for FVP Corstone-1000 environment.
+### [WebRTC Server on STM32](https://github.com/dovantuan02)
+A minimal WebRTC server running on **STM32N6570-DK** with **Zephyr RTOS**, supporting video, audio, and data channel streaming.
 
-#### [Camera Firmware](https://github.com/dovantuan02)
-Developed and maintained high-performance firmware for traffic camera systems, focusing on low latency, efficient resource usage, and stable video handling.
+### [ARM Corstone-1000 Custom Bootloader](https://github.com/dovantuan02)
+Customized boot flow and integrated **Buildroot** for the **Corstone-1000 FVP** environment.
 
-#### [Fly and Shoot Game](https://github.com/dovantuan02/fly-and-shoot-game)
-An event-driven 2D shooter game implemented on an **STM32 Cortex-M3**. Features code isolation for input handling, game state management, and display rendering.
+### [Camera Firmware](https://github.com/dovantuan02)
+Developed high-performance firmware for traffic camera systems with a focus on low latency, resource efficiency, and system stability.
+
+### [Fly and Shoot Game](https://github.com/dovantuan02/fly-and-shoot-game)
+An event-driven 2D shooter game on **STM32 Cortex-M3** with separated modules for rendering, input handling, and game state management.
 
 ---
 
-### Let's Connect!
-- **LinkedIn:** [linkedin.com/in/do-van-tuan](https://www.linkedin.com/in/do-van-tuan)
-- **LeetCode** [leetcode.com/u/dovantuan285](https://leetcode.com/u/dovantuan285)
-- **Gmail** [dovantuan285@gmail.com]
-- **Location:** Ho Chi Minh City, Vietnam.
+## Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/do-van-tuan
+- **LeetCode:** https://leetcode.com/u/dovantuan285
+- **Email:** dovantuan285@gmail.com
+- **Location:** Ho Chi Minh City, Vietnam
