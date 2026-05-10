@@ -5,7 +5,7 @@ I am an Embedded Programmer with a strong focus on camera systems, real-time str
 ---
 
 ### Professional Focus
-- **Real-time Streaming:** Expert in WebRTC, RTSP, and RTMP protocols.
+- **Real-time Streaming:** WebRTC, RTSP, and RTMP protocols.
 - **System Bring-up:** Experienced in customizing boot flows and bypassing secure boot mechanisms (CC312) on ARM platforms (Corstone-1000).
 - **Embedded Linux:** Proficient in Buildroot and Yocto Project for root filesystem customization and system optimization.
 - **Firmware Development:** Specialized in event-driven system design and low-level C/C++ programming for constrained environments.
