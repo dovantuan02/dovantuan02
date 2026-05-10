@@ -31,7 +31,7 @@ Customized the boot process to bypass the secure boot mechanism (CC312), enablin
 #### [Camera Firmware](https://github.com/dovantuan02)
 Developed and maintained high-performance firmware for traffic camera systems, focusing on low latency, efficient resource usage, and stable video handling.
 
-#### [Fly and Shoot Game](https://github.com/dovantuan02)
+#### [Fly and Shoot Game](https://github.com/dovantuan02/fly-and-shoot-game)
 An event-driven 2D shooter game implemented on an **STM32 Cortex-M3**. Features code isolation for input handling, game state management, and display rendering.
 
 ---
