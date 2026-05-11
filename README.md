@@ -1,4 +1,4 @@
-# Building Low-Latency Embedded & Real-Time Streaming Systems
+# Developing Embedded Systems
 
 **Embedded Engineer | Embedded Linux | RTOS | WebRTC | Camera Systems**
 
