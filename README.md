@@ -7,16 +7,6 @@ I enjoy building stable, efficient, and low-latency solutions for video, IoT, an
 
 ---
 
-## What I Do
-- Real-time streaming with **WebRTC, RTSP, and RTMP**
-- Embedded Linux customization using **Buildroot** and **Yocto Project**
-- Firmware development with **C/C++** for constrained systems
-- Event-driven architecture and low-level system programming
-- Camera system development and video pipeline optimization
-- ARM platform bring-up and boot flow customization
-
----
-
 ## Tech Stack
 - **Languages:** C, C++
 - **Embedded OS:** Embedded Linux, Zephyr RTOS
